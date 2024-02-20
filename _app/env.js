@@ -1,1 +1,1 @@
-export const env={"PUBLIC_DEV_BASE_URL":"http://0.0.0.0:4000","PUBLIC_PROD_BASE_URL":"https://mench32.github.io/greek"}
+export const env={}
