@@ -10,6 +10,7 @@
   "start_url": "/greek",
   "background_color": "#fff",
   "theme_color": "#fff",
+  "prefer_related_applications": true,
   "icons": [
     {
       "src": "/icons/android-chrome-36x36.png",
