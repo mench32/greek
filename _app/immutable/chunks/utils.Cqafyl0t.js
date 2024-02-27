@@ -1,0 +1,1 @@
+function _(r){const n=/__(.*)__/g,e=r.match(n);if(!e)return{text:r,fields:[]};let t=r;const s=e==null?void 0:e.map((c,u)=>(t=t.replace(c,`__${u}__`),c));return{text:t,fields:s}}function a(r,n){return n.reduce((e,t,s)=>e.replace(`__${s}__`,t.replace(/__/g,"")),r)}function o(r,n=0){const e=Number(r??n);return isNaN(e)?0:e}export{_ as c,a as e,o as g};
