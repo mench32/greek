@@ -1,1 +1,1 @@
-{"type":"data","nodes":[{"type":"data","data":[{"lessons":1,"settings":2},3,{"showDigraphs":3,"showArticles":4,"showTranslates":4,"lessons":5},true,false,[]],"uses":{}},{"type":"data","data":[{"lesson":1,"texts":2,"grammer":2,"exercises":2,"dict":2},2,true],"uses":{"params":["lesson"]}},{"type":"data","data":[null],"uses":{}}]}
+{"type":"data","nodes":[{"type":"data","data":[{"lessons":1},4],"uses":{}},{"type":"data","data":[{"lesson":1,"texts":2,"grammer":2,"exercises":2,"dict":2},2,true],"uses":{"params":["lesson"]}},{"type":"data","data":[null],"uses":{}}]}
