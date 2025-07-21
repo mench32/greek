@@ -1,1 +1,1 @@
-{"type":"data","nodes":[{"type":"data","data":[{"lessons":1},4],"uses":{}},{"type":"data","data":[{"lesson":1,"texts":2,"grammer":3,"exercises":3,"dict":2},0,false,true],"uses":{"params":["lesson"]}},{"type":"data","data":[null],"uses":{}}]}
+{"type":"redirect","location":"/greek/lessons/0/grammer"}

@@ -1,1 +1,0 @@
-let e=null,n=!1;function i(d){return new Promise(t=>{function a(){n=!1,t()}e&&n&&(n=!1,e.removeEventListener("ended",a),e.pause(),t()),e=new Audio(d),n=!0,e.addEventListener("ended",a),e.play()})}export{i as p};
